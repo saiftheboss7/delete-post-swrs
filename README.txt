@@ -1,10 +1,10 @@
 === Delete Posts - Bulk delete posts ===
-Contributors: sourovroy
+Contributors: sourovroy, saiftheboss7
 Donate link: https://somehelpsite.wordpress.com/
 Tags: delete-post, post, page, post-type
 Requires at least: 4.0
 Tested up to: 5.2.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires PHP: 5.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -38,5 +38,8 @@ https://github.com/sourovroy/delete-post-swrs
 
 == Changelog ==
 
-= 1.0 =
+= 1.9 =
 * Publish the plugin first time
+
+= 1.0.2 =
+* Update code and testing publishing through Github.
