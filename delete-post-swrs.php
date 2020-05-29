@@ -3,7 +3,7 @@
  * Plugin Name: Delete Post Swrs
  * Plugin URI:  http://sourov.im/
  * Description: This plugin will delete post of any post type.
- * Version:     1.0.4
+ * Version:     1.0.6
  * Author:      Sourov Roy
  * Author URI:  http://sourov.im/
  * License:     GPL-2.0+
